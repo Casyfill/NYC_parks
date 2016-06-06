@@ -16,6 +16,7 @@ check [tool](tool/) folder
 
 ##DATA PREPARATION
 NOTE: this folder was removed due to data restriction
+
 two notebooks are in [data collection](data_collection/) folder
 I used [mapshaper](http://www.mapshaper.org/) to simplify park boundaries
 All data is copied in [data](folder)
