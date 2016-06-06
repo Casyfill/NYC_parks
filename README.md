@@ -1,6 +1,7 @@
 Parqa_tool
 ==========
 **geoDashboards of parks performance. NYU CUSP Parqa project**
+
 NOTE: open(reducted) version: none data nor topo_boundaries attached.
 
 ![Current State](img/7.png "Current state")
